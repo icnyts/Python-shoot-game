@@ -1,0 +1,2 @@
+Try to make it like the game of Google, jumping dinosour.
+Having incoming cactus, plus the  ability to shoot bullets and crash enemy
